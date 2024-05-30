@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, me llamo Johan Piedra</h1>
 <h3 align="center">Soy un frontend apasionado</h3>
 
-- 💬 Ask me about **html, css, javascript y Wordpress**
+- 💬 Preguntame sobre **html, css, javascript y Wordpress**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
